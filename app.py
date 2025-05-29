@@ -29,7 +29,7 @@ scissors = '''
 '''
 
 # Streamlit title
-st.title("Rock Paper Scissors Game")
+st.title("Afroza's Rock Paper Scissors Game")
 
 # Map choices to ASCII art
 ascii_art = {
